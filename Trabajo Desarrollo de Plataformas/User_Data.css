@@ -1,0 +1,67 @@
+/* User CSS */
+
+body
+{
+	background-image: url("https://cdn.pixabay.com/photo/2016/03/04/16/14/pattern-1236277_960_720.jpg");
+	width: 100%;
+	height: 120px;
+	margin: 0;
+	
+}
+
+h1
+{
+	font-size: 20px;
+	position: center;
+}
+
+hr 
+{ 
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 2px;
+}
+
+/* Classes */
+.Image
+{
+	background-color: white;
+	background-position: center;
+	background-repeat: repeat;
+	height: 50%;
+	width: 50%;
+}
+
+.IntroText
+{
+	
+	color: #0eee00;
+}
+
+.Avatar 
+{
+	width: 120px;
+	height: 120px;
+	position: relative; /* fixed? */
+	
+	
+}
+
+.Logo
+{
+	width: 100%;
+	height: 120px;
+	background-image: url("https://cdn.pixabay.com/photo/2016/03/04/16/14/pattern-1236277_960_720.jpg");	
+	
+}
+
+/* ID's */
+#information
+{
+	/* tabla */
+	color: #0000ee;
+}
